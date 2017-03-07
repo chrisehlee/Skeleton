@@ -1,4 +1,4 @@
-# [Skeleton](http://getskeleton.com)
+# Blueprint
 Blueprint (a fork of [Skeleton](getskeleton.com)) just like its predecessor, is responsive boilerplate to kickstart any responsive project with a little twist - Its flexbox-based and SASS built.
 
 Check out <http://getskeleton.com> for documentation and details. More to come on this fork.
@@ -33,4 +33,4 @@ Blueprint is being developed with SASS in [Visual Studio Code](http://code.visua
 
 ## Acknowledgement
 
-Blueprint started by Chris Eliezer as a fork of Skeleton which was created by [Dave Gamache](https://twitter.com/dhg) for a better web and Skeleton-Sass by [Seth Coelen](https://github.com/WhatsNewSaes).
+Blueprint started by [Chris Eliezer](https://twitter.com/thecahuna) as a fork of Skeleton which was created by [Dave Gamache](https://twitter.com/dhg) for a better web and Skeleton-Sass by [Seth Coelen](https://github.com/WhatsNewSaes).
